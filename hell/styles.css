@@ -9,3 +9,9 @@
   color: #427e01;
   text-align: center;
 }
+
+body {
+  background-image: url("tlo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
