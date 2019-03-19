@@ -12,6 +12,6 @@
 
 body {
   background-image: url("tlo.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: fixed;
 }
