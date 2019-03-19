@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Zombie;
+  src: url(nowy.ttf);
+}
+
+.naglowek {
+  font-family: Zombie;
+  font-size: 300%;
+  color: #427e01;
+}
